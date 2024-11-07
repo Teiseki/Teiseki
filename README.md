@@ -7,9 +7,3 @@
 * 短歌
 * 睡眠
 * 旅行
-# リンク集
-* twitter:https://twitter.com/tamtam_rairai
-* twitter2:https://twitter.com/yasasy_hibi
-* misskey:https://misskey.io/@4qu
-* mastdon:https://mstdn.jp/@Pax_malloyaka
-* note:https://note.com/teiseki_mol
